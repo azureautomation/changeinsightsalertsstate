@@ -1,0 +1,20 @@
+{
+    "Author": "jlaari",
+    "ContentSize": 3377,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/changeinsightsalertsstate/master/Change-InsightsAlertsState.ps1",
+    "DownloadCount": 647,
+    "Id": "Change-InsightsAlertsState-6e7810d3",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 258,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-3-30T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This Azure Automation runbook enables or disables all Application Insights alerts from resource group. You can use this runbook to enable or disable all alerts in 'microsoft.insights/alertrules' namespace. This runbooks needs AzureRunAsConnection.",
+    "Title": "Change-InsightsAlertsState",
+    "UpdatedDate": "2017-3-30T00:00:00",
+    "Url": "https://github.com/azureautomation/changeinsightsalertsstate",
+    "UserTags": "Powershell, Runbook, Azure Automation"
+}
